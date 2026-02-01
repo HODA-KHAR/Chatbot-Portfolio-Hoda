@@ -63,7 +63,7 @@ Une fois votre application fonctionnelle, déployez là sur Streamlit Cloud.
 * [Documentation : Déployer votre application sur Streamlit Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy)
 
 ## Pour aller plus loin (Bonus)
-
+ 
 Si vous avez terminé les étapes précédentes et souhaitez enrichir votre projet :
 * **Sauvegarder les conversations** : Utilisez [Upstash Redis](https://upstash.com/docs/redis/overall/getstarted) pour mémoriser l'historique des échanges entre l'utilisateur et l'agent.
 * **Ajouter des nouveaux tools** : Permettez à votre agent d'effectuer d'autres actions (ajout de tools).
