@@ -44,3 +44,16 @@ Ce projet avait pour but de présenter la situation économique de Rome.
 **Technologies** : R, Python, Power BI.
 **Description** : Analyse des facteurs d'accidents dans une ville française. Tests de représentativité et création d'un tableau de bord interactif final.
 
+# Projet : Chatbot Portfolio Intelligent
+**Technologies** : Python, Streamlit, OpenAI API, Upstash Vector, RAG.
+**Description** : Développement d'un chatbot intelligent basé sur RAG (Retrieval-Augmented Generation) pour présenter mon portfolio professionnel de manière interactive. Le chatbot répond aux questions sur mes projets, compétences, expériences et formations en utilisant mes données personnelles comme base de connaissances.
+**Fonctionnalités** :
+- Indexation automatique des données du portfolio (projets, expériences, formations)
+- Recherche sémantique avec embeddings
+- Génération de réponses contextualisées via OpenAI
+- Interface utilisateur interactive avec Streamlit
+**Liens** :
+- 🔗 [Dépôt GitHub](https://github.com/HODA-KHAR/Chatbot-Portfolio-Hoda)
+- 🚀 Application Streamlit (à déployer)
+**Apports** : Maîtrise des LLM, architecture RAG, gestion de base de données vectorielle, développement d'applications interactives.
+
