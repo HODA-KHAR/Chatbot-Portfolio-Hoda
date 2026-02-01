@@ -6,7 +6,6 @@ import json             # Pour gérer le format de données JSON (texte structur
 from dotenv import load_dotenv  # Pour charger les mots de passe depuis le fichier .env caché
 from agents import Runner       # Le "moteur" qui fait tourner notre agent IA
 from agent import portfolio_agent # Notre agent IA spécifique (Hoda) importé depuis agent.py
-from upstash_redis import Redis   # Connecteur pour la base de données Redis (mémoire externe)
 
 # --- 1. CHARGEMENT DE LA CONFIGURATION ---
 # On charge les clés secrètes (API keys) depuis le fichier .env
